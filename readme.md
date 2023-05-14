@@ -1,6 +1,5 @@
 # Instruction to run the applications
 
-- Unzip the folder
 - Install all the required python modules from `requirement.txt` using the following command `pip install -r requirements.txt`
 - After successfully installing the required modules, run `main.py` python file using the following command `python main.py` in command prompt.
 - App is running on `http://127.0.0.1:5000`. Use above url to access the web application.
